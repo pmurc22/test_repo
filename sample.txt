@@ -1,1 +1,3 @@
 This is the first time I'm editing this file to see what it looks like in GitHub. 
+
+Adding a second line to the file, let's see how this line shows up in GitHub after we push and commit it. 
